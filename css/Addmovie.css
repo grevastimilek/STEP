@@ -1,0 +1,91 @@
+.logo
+{
+width: 200px;
+}
+.fright
+{
+  float: right;
+}
+.fleft
+{
+  float: left;
+}
+.clearfix
+{
+  clear: both;
+}
+body
+{
+  font-family: 'Lato', sans-serif;
+  background-color: #442D4B;
+  color:white;
+}
+ul li
+{
+  list-style: none;
+}
+header
+{
+  padding: 40px;
+  height: 40px;
+}
+header ul li
+{
+  display: inline-block;
+  padding: 10px 15px;
+  color: white;
+}
+header ul li a
+{
+  color:#ffcb59;
+  text-decoration: none;
+  font-size: 16px;
+}
+.addmovieform
+{
+  width: 500px;
+  margin: 0 auto;
+}
+.addmovieform h2
+{
+  text-align: center;
+  font-size: 28px;
+}
+.addmovieform label, .addmovieform input
+{
+  display: block;
+}
+.addmovieform input, .addmovieform textarea, .addmovieform select
+{
+  width: 100%;
+  background: #442D4B;
+  border: 1px solid white;
+  margin:7px 0 15px;
+  color: white;
+  padding: 0 5px;
+  font-size: 19px;
+  font-family: inherit;
+}
+.addmovieform input
+{
+  height: 40px;
+}
+
+.divide
+{
+  display: inline-block;
+  width: 50%;
+  padding-left: 10px;
+}
+.lang
+{
+  padding-left: 0;
+}
+form
+{
+  white-space: nowrap;
+}
+.addmovieform select
+{
+  border-radius:
+}
